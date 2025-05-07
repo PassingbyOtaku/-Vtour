@@ -34,13 +34,13 @@
 
 ---
 
-### **5. 导出hap软件包**
+### **4. 导出hap软件包**
 1. 点击菜单栏 `Build > Build Hap(s)/APP(s) > Build Hap(s)`。
 2. 生成的 `.hap` 文件位于 `entry/build/default/outputs/default` 目录。
 
 ---
 
-### **6. 安装hap包**
+### **5. 安装hap包**
 #### **通过命令行安装**
 1. 使用 `hdc` 工具（HarmonyOS Device Connector）：
    ```bash
